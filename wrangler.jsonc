@@ -1,0 +1,17 @@
+// Online version: `npm run deploy`. The key is a Worker secret, set once with
+// `npm run deploy:key` (reads it from .env without printing it).
+{
+  "name": "migration-in-a-box",
+  "main": "worker/index.ts",
+  "compatibility_date": "2026-09-01",
+  "compatibility_flags": ["nodejs_compat"],
+  "workers_dev": true,
+  // Run next to Anthropic's API: from some Cloudflare locations Anthropic refuses requests (403).
+  "placement": { "region": "gcp:us-east4" },
+  "assets": {
+    "directory": "./dist",
+    "binding": "ASSETS",
+    "not_found_handling": "single-page-application",
+    "run_worker_first": ["/api/*"]
+  }
+}

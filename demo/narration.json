@@ -1,0 +1,38 @@
+[
+  {
+    "image": "scene01.jpg",
+    "text": "This is Migration-in-a-box. It turns PDFs, Excel and CSV files into one clean Excel sheet, ready to import into a new system. Everything runs inside your browser, so your files are never uploaded."
+  },
+  {
+    "image": "scene02.jpg",
+    "text": "Step one: drop your files. Here are six GST invoices, an Excel stock list and a scanned invoice. Each file is read in seconds, and the app shows how many rows it found in each one."
+  },
+  {
+    "image": "scene03.jpg",
+    "text": "The scanned invoice has no text, so we press Read scanned pages. The app reads the picture with OCR, right on this computer, and marks it so you remember to check the numbers."
+  },
+  {
+    "image": "scene04.jpg",
+    "text": "Step two is the template, which decides the columns of your Excel. Switch on Auto, and the app suggests the best free template for your files. Here it found sixteen of sixteen columns."
+  },
+  {
+    "image": "scene05.jpg",
+    "text": "One click on Use it, and the preview fills in. Every item gets its own complete line: invoice number, date, seller and buyer G S T I N, the description, and even the item type, worked out from the description."
+  },
+  {
+    "image": "scene06.jpg",
+    "text": "Scroll right and the rest is there too: quantity, rate, G S T percent and amount, plus the taxable value, C G S T, S G S T and grand total from the bottom of each invoice. The proof line checks that every invoice adds up."
+  },
+  {
+    "image": "scene07.jpg",
+    "text": "Want your own layout? Every field found in your files is listed here. Click or drag a field into the Excel columns. Set a column to Number, Date or Unit, and the values are cleaned, so all dates come out day first."
+  },
+  {
+    "image": "scene08.jpg",
+    "text": "Or simply describe the Excel you want to the AI helper. Before anything is sent, the box shows exactly what leaves your computer: only the column names, never your files."
+  },
+  {
+    "image": "scene09.jpg",
+    "text": "Save the template in your Library to reuse it next time, export it as a backup, then download the Excel. It comes with a Proof sheet, and you can split it into one sheet per file. That is Migration-in-a-box."
+  }
+]

@@ -1,0 +1,10 @@
+[
+  { "id": "intro", "text": "This is Migration-in-a-box. It turns PDFs, Excel and CSV files into one clean Excel sheet for your new system. Everything runs inside your browser, so your files are never uploaded." },
+  { "id": "drop", "text": "First, drag your files in. Here are six G S T invoices, an Excel stock list and a scanned invoice. Each one is read in a second or two, and you can see how many rows it found." },
+  { "id": "ocr", "text": "The scanned invoice is only a picture, so I press Read scanned pages. The app reads it with OCR, right on this computer, and marks it so you remember to check the numbers." },
+  { "id": "auto", "text": "Now the template, which decides the columns of your Excel. I switch on Auto, and it suggests the best free template for these files. One click on Use it." },
+  { "id": "preview", "text": "And the preview is ready. Every item gets one complete line: invoice number, date, both G S T I Ns, the description, and the item type, worked out from the description. Scrolling right, there is the quantity, rate, amount, and the taxable value, C G S T, S G S T and grand total. The proof line confirms every invoice adds up." },
+  { "id": "build", "text": "You can also build your own layout. I remove all columns, then click the fields I want: invoice number, invoice date, description, quantity and amount. Setting a column to Date writes every date the same way, day first." },
+  { "id": "ai", "text": "Or describe the Excel you want to the AI helper. Before anything is sent, this box shows exactly what would leave your computer: only the column names, never your files." },
+  { "id": "finish", "text": "Finally, save the template in your Library to reuse it next time, choose one sheet per file if you like, and download the Excel, with a proof sheet included. That is Migration-in-a-box." }
+]

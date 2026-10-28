@@ -1,0 +1,33 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+# Local secrets written by `elevenlabs onboard`
+/.env.local
+
+# Secrets: the Anthropic key lives only in .env (server side). Never commit or ship these.
+.env
+.env.*
+!.env.example
+.dev.vars
+.wrangler
