@@ -3,6 +3,8 @@
 Turns PDFs, Excel and CSV files into one clean Excel file. The files are read in the browser and never uploaded.
 AI (Claude Haiku 5.5) sorts the items and, if you ask, chooses the columns.
 
+**Live demo:** https://migration-in-a-box.orbit-fm.workers.dev. Reading files, building the Excel and keyword sorting work for everyone. The AI features are locked behind a passcode.
+
 ## Two ways to use it
 
 **Simple view (default):** one page with three columns side by side. **1. Add files** on the left, **2. Choose how** in the middle, **3. Check & download** on the right.
